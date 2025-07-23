@@ -39,10 +39,20 @@
 
 ## 📌 **Featured Projects | Dự án tiêu biểu**
 
-> 🚧 *Coming soon... stay tuned for some cool AI & web app projects!*  
-> 🚧 *Sắp ra mắt... Hãy đón chờ các dự án AI & web app thú vị nhé!*
+## Những dự án ấn tượng của tôi
+## My Impressive Projects
 
----
+### 1. Application_programming_with_OpenCV_Streamlit
+- Description: An application combining OpenCV and Streamlit for online image/video processing and display, serving computer vision needs with a modern web interface.
+- Link: [Application_programming_with_OpenCV_Streamlit](https://github.com/huetrant/Application_programming_with_OpenCV_Streamlit)
+
+### 2. nextjs-supabase-app
+- Description: A web application built with Next.js integrated with Supabase for data management, user authentication, and real-time interactive features.
+- Link: [nextjs-supabase-app](https://github.com/huetrant/nextjs-supabase-app)
+
+### 3. Chatbot_Travel
+- Description: An intelligent travel support chatbot using NLP and AI to provide users with useful information about destinations, itineraries, and travel services.
+- Link: [Chatbot_Travel](https://github.com/huetrant/Chatbot_Travel)
 
 ## 🎈 **Hobbies & Fun Facts | Sở thích & Fun fact**
 
