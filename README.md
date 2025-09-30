@@ -7,13 +7,12 @@
 
 ## 👩‍🎓 **About Me | Giới thiệu**
 
-- 🎓 **Final-year Computer Science student at University of Sciences, Hue University**
-  - 🎓 **Sinh viên năm cuối ngành Khoa học Máy tính, Trường Đại học Khoa học, Đại học Huế**
+- 🎓 **Computer Science student at University of Sciences, Hue University**
+  - 🎓 **Sinh viên ngành Khoa học Máy tính, Trường Đại học Khoa học, Đại học Huế**
 - 📚 **GPA:** 3.66/4.0
 - 🤖 **Interested in AI, Chatbots (RAG, GraphRAG), Computer Vision, NLP, LLMs**
   - 🤖 **Nghiên cứu các lĩnh vực: AI, Chatbot RAG/GraphRAG, Thị giác máy tính, NLP, LLM...**
-- 💻 **Exploring FastAPI, React, SQL Server, PostgreSQL**
-  - 💻 **Đang tìm hiểu FastAPI, React, SQL Server, PostgreSQL**
+- 💻 **FastAPI, React, SQL Server, PostgreSQL**
 
 ---
 
