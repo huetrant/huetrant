@@ -66,9 +66,9 @@
 - Responsive UI/UX implementation
 
 **Data Science & Analytics**
-- Python-based data analysis and processing
-- Jupyter notebooks for experimentation
-- Data visualization and reporting
+- Python-based data analysis and processing.
+- Jupyter notebooks for experimentation.
+- Data visualization and reporting.
 
 ---
 
