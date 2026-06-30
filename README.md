@@ -72,14 +72,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huetrant&show_icons=true&theme=github_dark&hide_rank=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huetrant&layout=compact&theme=github_dark)
-
----
-
 ## 📫 Contact
 
 - **Email:** [trth.thanhue@gmail.com](mailto:trth.thanhue@gmail.com)
