@@ -1,6 +1,6 @@
-# Huệ Trần | Full-Stack Developer & AI Enthusiast
+# Huệ Trần | Software Engineer
 
-**Computer Science Student** | Building intelligent web applications and AI solutions
+**Computer Science Student** | Full-Stack & AI Developer
 
 ---
 
