@@ -72,6 +72,25 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### **Store Management System** — Next.js + Supabase
+- Full-stack e-commerce management platform with multi-language support
+- Tech: Next.js 15, React 19, TypeScript, Supabase, Tailwind CSS, PostgreSQL
+- [View Project](https://github.com/huetrant/nextjs-supabase-app)
+
+### **Full Stack FastAPI Template** — FastAPI + React + PostgreSQL
+- Production-ready full-stack template with authentication and deployment setup
+- Tech: FastAPI, React, TypeScript, SQLModel, PostgreSQL, Docker, GitHub Actions
+- [View Project](https://github.com/huetrant/full-stack-fastapi-template)
+
+### **Demo FastAPI** — REST API & Dashboard
+- Backend API with React frontend for managing products, orders, and customers
+- Tech: FastAPI, React, TypeScript, Redux Toolkit, PostgreSQL, Vite
+- [View Project](https://github.com/huetrant/Demo-FastAPI)
+
+---
+
 ## 📫 Contact
 
 - **Email:** [trth.thanhue@gmail.com](mailto:trth.thanhue@gmail.com)
