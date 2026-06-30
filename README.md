@@ -1,82 +1,136 @@
-# 🌟 Hi there, I'm Huệ Trần! 😄 | Xin chào, mình là Huệ Trần!
+# 👋 Hi there! I'm Huệ Trần | Xin chào, mình là Huệ Trần!
 
-> *"Always curious, a little bit geeky, and powered by coffee ☕️ & code!"*  
-> *"Luôn tò mò học hỏi, hơi geek một chút, sống nhờ cà phê ☕️ và code!"*
-
----
-
-## 👩‍🎓 **About Me | Giới thiệu**
-
-- 🎓 **Computer Science student at University of Sciences, Hue University**
-  - 🎓 **Sinh viên ngành Khoa học Máy tính, Trường Đại học Khoa học, Đại học Huế**
-- 📚 **GPA:** 3.66/4.0
-- 🤖 **Interested in AI, Chatbots (RAG, GraphRAG), Computer Vision, NLP, LLMs**
-  - 🤖 **Nghiên cứu các lĩnh vực: AI, Chatbot RAG/GraphRAG, Thị giác máy tính, NLP, LLM...**
-- 💻 **FastAPI, React, SQL Server, PostgreSQL**
+> *"Building intelligent applications with AI, one line of code at a time."*  
+> *"Xây dựng những ứng dụng thông minh với AI, từng dòng code một."*
 
 ---
 
-## 🚀 **What I'm Working On | Đang làm gì**
+## 👨‍💻 **About Me | Về mình**
 
-- 🤝 **Learning & researching AI and LLMs**
-  - 🤝 **Nghiên cứu, học hỏi sâu hơn về AI và các mô hình ngôn ngữ lớn**
-- 🧩 **Building apps with FastAPI & React**
-  - 🧩 **Phát triển ứng dụng với FastAPI & React**
-- 💡 **Practicing good software engineering practices**
-  - 💡 **Áp dụng quy trình phát triển phần mềm chuyên nghiệp**
+I'm a **Computer Science student** at University of Sciences, Hue University with a passion for **Artificial Intelligence, Machine Learning, and Full-stack Web Development**. I'm driven by curiosity and the desire to solve real-world problems through innovative technology.
 
----
+Mình là một **sinh viên Khoa học Máy tính** tại Trường Đại học Khoa học, Đại học Huế với đam mê về **Trí tuệ Nhân tạo, Học máy, và Phát triển Web toàn diện**. Mình bị thúc đẩy bởi sự tò mò và mong muốn giải quyết các vấn đề thực tế thông qua công nghệ sáng tạo.
 
-## 🔥 **Tech Stack | Công nghệ sử dụng**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**Key Highlights:**
+- 🎓 **Strong Academic Foundation** — GPA: 3.66/4.0
+- 🏆 **Problem Solver** — Love tackling challenging projects and learning new technologies
+- 🤝 **Collaborative** — Enjoy working with teams and sharing knowledge
 
 ---
 
-## 📌 **Featured Projects | Dự án tiêu biểu**
+## 🎯 **Expertise & Interests | Chuyên môn & Sở thích**
 
-## Những dự án ấn tượng của tôi
-## My Impressive Projects
+### **🤖 AI & Machine Learning | Trí tuệ Nhân tạo & Học máy**
+- Large Language Models (LLMs) & RAG (Retrieval-Augmented Generation)
+- Conversational AI & Intelligent Chatbots
+- NLP (Natural Language Processing)
+- Computer Vision Applications
+- AI Agents & Autonomous Systems
 
-### 1. Application_programming_with_OpenCV_Streamlit
-- Description: An application combining OpenCV and Streamlit for online image/video processing and display, serving computer vision needs with a modern web interface.
-- Link: [Application_programming_with_OpenCV_Streamlit](https://github.com/huetrant/Application_programming_with_OpenCV_Streamlit)
+### **💻 Full-Stack Development | Phát triển Web Toàn diện**
+- Backend: FastAPI, Python, REST APIs
+- Frontend: React, Next.js, TypeScript
+- Databases: PostgreSQL, MySQL, SQL Server
+- DevOps & Deployment: Docker, GitHub Actions
 
-### 2. nextjs-supabase-app
-- Description: A web application built with Next.js integrated with Supabase for data management, user authentication, and real-time interactive features.
-- Link: [nextjs-supabase-app](https://github.com/huetrant/nextjs-supabase-app)
-
-### 3. Chatbot_Travel
-- Description: An intelligent travel support chatbot using NLP and AI to provide users with useful information about destinations, itineraries, and travel services.
-- Link: [Chatbot_Travel](https://github.com/huetrant/Chatbot_Travel)
-
-## 🎈 **Hobbies & Fun Facts | Sở thích & Fun fact**
-
-- 🎵 **Music lover — can't code without a playlist!**  
-  🎵 **Yêu âm nhạc — không thể code nếu thiếu playlist!**
-- 📚 **Love reading AI papers at midnight 🤓**  
-  📚 **Đọc nghiên cứu AI lúc nửa đêm 🤓**
-- ✈️ **Dream of travelling the world one city at a time 🌍**  
-  ✈️ **Mơ được đi khắp thế giới, từng thành phố một 🌍**
-- 🐱 **Cat person but secretly love dogs too!**  
-  🐱 **Mê mèo nhưng cũng lén thích chó!**
+### **🚀 Modern Tech Stack | Công nghệ Hiện đại**
+- Python, TypeScript, JavaScript
+- FastAPI, React, Next.js
+- LangChain, CrewAI, OpenAI APIs
+- PostgreSQL, Docker, Git
 
 ---
 
-## 📈 **GitHub Stats | Thống kê GitHub**
+## 🔬 **What I'm Passionate About | Những gì mình đam mê**
 
-![Huệ Trần's GitHub stats](https://github-readme-stats.vercel.app/api?username=huetrant&show_icons=true&theme=tokyonight)
+- 🧠 **Exploring cutting-edge AI technologies** — Staying updated with latest LLM advancements and AI innovations
+  - 🧠 **Khám phá công nghệ AI tiên tiến** — Cập nhật những tiến bộ mới nhất của LLM và đổi mới AI
+
+- 🌐 **Building scalable web applications** — Creating efficient, user-friendly solutions with modern frameworks
+  - 🌐 **Xây dựng ứng dụng web có khả năng mở rộng** — Tạo những giải pháp hiệu quả, thân thiện với người dùng
+
+- 📚 **Continuous learning** — Reading research papers, taking courses, experimenting with new tools
+  - 📚 **Học tập liên tục** — Đọc bài báo nghiên cứu, tham gia khóa học, thử nghiệm công cụ mới
+
+- 💡 **Open-source contribution** — Sharing knowledge and helping the developer community grow
+  - 💡 **Đóng góp cho mã nguồn mở** — Chia sẻ kiến thức và giúp cộng đồng lập trình viên phát triển
 
 ---
 
-## 📫 **Let's Connect | Kết nối với mình**
+## 📊 **GitHub Stats | Thống kê GitHub**
 
-- 📧 Email: [trth.thanhue@gmail.com](mailto:trth.thanhue@gmail.com)
+![Huệ Trần's GitHub stats](https://github-readme-stats.vercel.app/api?username=huetrant&show_icons=true&theme=tokyonight&count_private=true&hide_rank=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huetrant&layout=compact&theme=tokyonight&hide_progress=true)
 
 ---
 
-⭐️ *Thanks for visiting my profile! | Cảm ơn bạn đã ghé thăm!* 🚀✨
+## 🎓 **Current Learning & Development | Đang Học & Phát Triển**
 
+- 📖 Advanced LLM applications and prompt engineering techniques
+- 🔍 Deep diving into system design and architecture patterns
+- 🤖 Building production-ready AI solutions
+- 📱 Exploring full-stack development best practices
+- 🌍 Contributing to meaningful open-source projects
+
+---
+
+## 🎨 **Beyond Code | Ngoài lập trình**
+
+- 🎵 **Music Lover** — Can't focus without the perfect playlist! From lo-fi beats to indie pop
+  - 🎵 **Yêu âm nhạc** — Không thể tập trung mà không có playlist hoàn hảo!
+
+- 📚 **Knowledge Seeker** — Often found reading AI papers, tech blogs, or exploring new concepts late at night
+  - 📚 **Tìm kiếm kiến thức** — Thường đọc paper AI, blog công nghệ vào buổi tối
+
+- ✈️ **Wanderlust** — Dreaming of exploring the world, discovering new cultures and perspectives
+  - ✈️ **Yêu du lịch** — Mơ khám phá thế giới, trải nghiệm các nền văn hóa mới
+
+- 🐱 **Pet Enthusiast** — Cat person but secretly love all animals!
+  - 🐱 **Yêu thú cưng** — Mê mèo nhưng cũng lén thích tất cả các động vật!
+
+---
+
+## 🚀 **Career Goal & Vision | Mục tiêu Sự nghiệp & Tầm nhìn**
+
+My goal is to become a **Full-stack AI/ML Engineer** who can design, develop, and deploy intelligent applications that create meaningful impact. I aspire to:
+
+Mục tiêu của mình là trở thành một **Full-stack AI/ML Engineer** có khả năng thiết kế, phát triển và triển khai các ứng dụng thông minh tạo ra tác động có ý nghĩa. Mình khao khát:
+
+- 🎯 Build innovative AI-powered products that solve real problems
+- 🌟 Lead teams and mentor junior developers
+- 🔬 Contribute to groundbreaking research in AI & ML
+- 🌍 Make technology accessible and beneficial for everyone
+
+---
+
+## 📫 **Let's Connect | Kết Nối Với Mình**
+
+I'd love to chat about technology, collaborate on exciting projects, or just grab a virtual coffee! Feel free to reach out:
+
+Mình rất thích nói chuyện về công nghệ, cộng tác trong các dự án thú vị, hoặc chỉ uống cà phê ảo! Hãy liên hệ với mình:
+
+- 📧 **Email:** [trth.thanhue@gmail.com](mailto:trth.thanhue@gmail.com)
+- 🐙 **GitHub:** [@huetrant](https://github.com/huetrant)
+- 💼 **LinkedIn:** [linkedin.com/in/huetrant/](https://linkedin.com/in/huetrant/) *(Add if you have)*
+- 📱 **Other Platforms:** [Add your other contacts if any]
+
+---
+
+## ⭐️ **Support My Work | Hỗ trợ công việc của mình**
+
+If you find my work interesting or helpful, I'd appreciate:
+- ⭐ A star on my repositories
+- 🔗 Sharing my profile with others
+- 💬 Feedback and suggestions for improvement
+- 🤝 Opportunities to collaborate
+
+---
+
+**Thanks for stopping by! Let's build something amazing together! 🚀✨**
+
+**Cảm ơn bạn đã ghé thăm! Hãy cùng nhau xây dựng điều gì đó tuyệt vời! 🚀✨**
+
+---
+
+*Last Updated: June 2026*
